@@ -9,6 +9,7 @@ Based on what the people of the same demographic have enjoyed. it offers general
 
 ## Content based filtering :
 Suggests similar items based on a particular item. This system uses item metadata, such as genre, director, description, actors, etc. for movies, to make these recommendations. The general idea behind these recommender systems is that if a person liked a particular item, he or she will also like an item that is similar to it.
+
 ![image](https://user-images.githubusercontent.com/81591745/198555013-079148af-ec33-4b95-8b66-d79412996200.png)
 
 ## Collaborative filtering :
